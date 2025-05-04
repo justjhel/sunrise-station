@@ -759,6 +759,8 @@
     lowPressureMultiplier: 1000
   - type: ExplosionResistance
     damageCoefficient: 0.5
+  - type: StaminaResistance
+    damageCoefficient: 0.5
   - type: Armor
     modifiers:
       coefficients:
